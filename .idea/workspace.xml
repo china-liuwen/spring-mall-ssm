@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a698f05f-3794-4e49-a380-e27fc9e81f35" name="Default Changelist" comment="" />
+    <list default="true" id="a698f05f-3794-4e49-a380-e27fc9e81f35" name="Default Changelist" comment="商城项目ssm">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +98,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.17234188" />
     <property name="project.structure.side.proportion" value="0.407932" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -333,7 +337,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:bank@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@5a1b3c64" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5e6005b8" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -380,7 +384,8 @@
       <workItem from="1578102822164" duration="467000" />
       <workItem from="1578104423602" duration="345000" />
       <workItem from="1578104904353" duration="9000" />
-      <workItem from="1578104935681" duration="2873000" />
+      <workItem from="1578104935681" duration="3959000" />
+      <workItem from="1578109271294" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="商城项目">
       <created>1577019249422</created>
@@ -410,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578107106193</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="商城项目ssm">
+      <created>1578107955363</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578107955363</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,8 +431,12 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="商城项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="商城项目" />
+    <MESSAGE value="商城项目ssm" />
+    <option name="LAST_COMMIT_MESSAGE" value="商城项目ssm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="#Project_Structure" timestamp="1576724632980">
@@ -447,22 +463,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="48" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576747791964" />
-    <state x="172" y="0" key="CommitChangelistDialog2" timestamp="1578107097404">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1578109849151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="172" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578107097404" />
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578109849151" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1578106299162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1578106299162" />
-    <state x="140" y="82" key="FileChooserDialogImpl" timestamp="1578107796448">
+    <state x="140" y="82" key="FileChooserDialogImpl" timestamp="1578109871770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="140" y="82" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578107796448" />
-    <state x="509" y="232" width="506" height="264" key="Github.ShareDialog" timestamp="1578107309842">
+    <state x="140" y="82" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578109871770" />
+    <state x="509" y="232" width="506" height="264" key="Github.ShareDialog" timestamp="1578108201254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="509" y="232" width="506" height="264" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1578107309842" />
+    <state x="509" y="232" width="506" height="264" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1578108201254" />
     <state width="1007" height="228" key="GridCell.Tab.0.bottom" timestamp="1577104627318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -527,10 +543,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1007" height="228" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1577104627319" />
-    <state x="47" y="0" width="1296" height="728" key="SettingsEditor" timestamp="1578107780196">
+    <state x="374" y="8" key="RollbackChangesDialog" timestamp="1578109381316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="47" y="0" width="1296" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578107780196" />
+    <state x="374" y="8" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578109381316" />
+    <state x="47" y="0" width="1296" height="728" key="SettingsEditor" timestamp="1578109646112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="47" y="0" width="1296" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578109646112" />
     <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1578107384533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
