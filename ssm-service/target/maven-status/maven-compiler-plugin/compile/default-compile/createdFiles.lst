@@ -1,0 +1,8 @@
+com\service\ProductService.class
+com\service\EmployeeService.class
+com\service\impl\TypeServiceImpl.class
+com\service\impl\ProductServiceImpl.class
+com\service\TypeService.class
+com\service\impl\UserServiceImpl.class
+com\service\impl\EmployeeServiceImpl.class
+com\service\UserService.class
