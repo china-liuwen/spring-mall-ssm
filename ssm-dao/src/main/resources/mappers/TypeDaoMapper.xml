@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dao.TypeDao">
+
+    <select id="getPageHelper" resultType="com.entity.TypeEntity">
+        select tid,tname from type
+        order by tid
+    </select>
+
+    <insert id="insert">
+        insert into type(tname)
+        values (#{tname})
+    </insert>
+
+    <delete id="delete">
+        delete from type
+        where tid = #{tid}
+    </delete>
+
+    <update id="update" parameterType="com.entity.TypeEntity">
+        update type
+        set tname = #{tname}
+        where tid = #{tid}
+    </update>
+
+
+
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
